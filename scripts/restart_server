@@ -2,4 +2,4 @@ echo '======================'
 echo 'Running restart_server'
 echo '======================'
 
-sudo systemctl restart myapp
+sudo systemctl restart nginx
